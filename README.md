@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack AI Engineer · Technical Lead · 3× IEEE Published</b><br/>
-  Building @ <a href="https://testmyskills.ai">testmyskills.ai</a> · Bangalore, India
+  Engineering @ <a href="https://testmyskills.ai">testmyskills.ai</a> · Bangalore, India
 </p>
 
 <p align="center">
