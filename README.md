@@ -46,9 +46,9 @@ I build production-grade AI systems end-to-end — from multi-agent orchestratio
 
 ### Research · 3× IEEE published
 
-- 📄 **Hardware Inventory Management System Using IoT** · IEEE · 2023 — [View →]https://ieeexplore.ieee.org/abstract/document/10058647
-- 📄 **An Interactive Framework for Querying Data from Large Pdf Files** · IEEE · 2023 — [View →]https://ieeexplore.ieee.org/abstract/document/10367090
-- 📄 **Traffic Control Management System for Emergency Vehicles** · IEEE · 2024 — [View →]https://scholar.google.com/citations?view_op=view_citation&hl=en&user=m7s02x8AAAAJ&citation_for_view=m7s02x8AAAAJ:u5HHmVD_uO8C
+- 📄 **Hardware Inventory Management System Using IoT** · IEEE · 2023 — https://ieeexplore.ieee.org/abstract/document/10058647
+- 📄 **An Interactive Framework for Querying Data from Large Pdf Files** · IEEE · 2023 — https://ieeexplore.ieee.org/abstract/document/10367090
+- 📄 **Traffic Control Management System for Emergency Vehicles** · IEEE · 2024 — https://scholar.google.com/citations?view_op=view_citation&hl=en&user=m7s02x8AAAAJ&citation_for_view=m7s02x8AAAAJ:u5HHmVD_uO8C
 
 ---
 
